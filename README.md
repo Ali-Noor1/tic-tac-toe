@@ -1,0 +1,1 @@
+The Tic Tac Toe Game is a classic 2-player game built with HTML, CSS, and JavaScript. It allows two players to take turns marking spaces on a 3×3 grid, with the goal of getting three of their marks in a row — horizontally, vertically, or diagonally.
